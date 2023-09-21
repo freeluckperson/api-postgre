@@ -1,6 +1,7 @@
 import { sequelize } from "./DB/DB.js";
 import app from "./app.js";
 import "./models/Projects.js";
+import "./models/Tasks.js";
 
 const PORT = 3000;
 
